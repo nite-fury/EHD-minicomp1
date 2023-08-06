@@ -2,8 +2,6 @@
 
 ## BurpeSuite
 
-[Burp-Suite-Cheat-Sheet.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/Burp-Suite-Cheat-Sheet.pdf)
-
 [Burp-Suite-Cheat-Sheet.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/Burp-Suite-Cheat-Sheet%201.pdf)
 
 ## EXIF Tool
@@ -12,13 +10,9 @@
 
 ## HXD
 
-[File Signatures.html](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/File_Signatures.html)
-
-[File Signatures.html](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/File_Signatures%201.html)
+[File Signatures.html](https://www.garykessler.net/library/file_sigs.html)
 
 ## General
-
-[imousrf_enumeration.bw.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/imousrf_enumeration.bw.pdf)
 
 [https://www.kali.org/tools/](https://www.kali.org/tools/)
 
@@ -27,8 +21,6 @@
 ## John The Ripper
 
 [Untitled.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/Untitled.pdf)
-
-[Untitled](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/Untitled%201.pdf)
 
 ## Nmap
 
@@ -40,13 +32,10 @@
 
 [heymensh_pentest-command-tools-gpen-based.bw.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/heymensh_pentest-command-tools-gpen-based.bw.pdf)
 
-[heymensh_pentest-command-tools-gpen-based.bw.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/heymensh_pentest-command-tools-gpen-based.bw%201.pdf)
-
 ## Hping3
 
 [hping3_cheatsheet_v1.0-ENG.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/hping3_cheatsheet_v1.0-ENG.pdf)
 
-[hping3_cheatsheet_v1.0-ENG.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/hping3_cheatsheet_v1.0-ENG%201.pdf)
 
 ## Advanced Web Searches (Google Dorking)
 
@@ -263,5 +252,3 @@
 ## OSCP guide (all in one)
 
 [1648761582305.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/1648761582305.pdf)
-
-[1648761582305.pdf](Tools%20Cheat%20Sheet%20bb22d60d155c4f2eba4b8dc646ac55e5/1648761582305%201.pdf)
